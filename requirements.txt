@@ -1,7 +1,24 @@
-pandas
-numpy
-h2o
-lime
-matplotlib
-scikit-learn
-openpyxl
+# Core ML libraries
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# AutoML
+h2o>=3.40.0
+
+# Explainability
+lime>=0.2.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.14.0
+
+# File handling
+openpyxl>=3.1.0
+
+# Web interface
+streamlit>=1.28.0
+
+# Optional: Jupyter support
+# jupyter>=1.0.0
+# ipywidgets>=8.0.0
